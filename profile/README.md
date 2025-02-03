@@ -24,5 +24,6 @@ const config = {
     ],
 }
 ```
-
+🌟 **visit our github page here --> https://team-future-minds.github.io/profile-background/**   
 🌟 **Join us as we push the boundaries of technology and innovation to create something extraordinary!**   
+
